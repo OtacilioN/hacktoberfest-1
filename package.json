@@ -1,0 +1,25 @@
+{
+  "name": "hacktoberfest",
+  "version": "0.0.0",
+  "description": "View Hacktoberfest stats",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziyaddin/hacktoberfest.git"
+  },
+  "keywords": [
+    "hacktoberfest",
+    "stats",
+    "statistics",
+    "contributions"
+  ],
+  "author": "Ziyaddin Sadigov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ziyaddin/hacktoberfest/issues"
+  },
+  "homepage": "https://github.com/ziyaddin/hacktoberfest#readme"
+}
