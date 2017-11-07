@@ -16,11 +16,10 @@ $ npm install --global hacktoberfest
 $ hacktoberfest --help
 
   Usage
-    $ hacktoberfest <string>
+    $ hacktoberfest <username> <year>
 
   Examples
-    $ hacktoberfest ziyaddin
-    asdfg assdasdsdffsffdsfsdfsdfsfsdfsdfsfsdfsdfsdfsdfsfsdfsfasdf
+    $ hacktoberfest ziyaddin 2017
 ```
 
 
