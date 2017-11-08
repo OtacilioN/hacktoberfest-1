@@ -25,7 +25,7 @@
     "contributions"
   ],
   "dependencies": {
-    "hacktoberfeststats": "^2.0.0",
+    "hacktoberfeststats": "^2.2.0",
     "meow": "^3.7.0"
   }
 }
