@@ -9,8 +9,8 @@ const cli = meow(`
 
 	Examples
 	  $ hacktoberfest ziyaddin 2017
-		$ hacktoberfest sindresorhus 2015
-		$ hacktoberfest OtacilioN
+	  $ hacktoberfest sindresorhus 2015
+	  $ hacktoberfest OtacilioN
 
 `);
 
